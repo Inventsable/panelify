@@ -20,7 +20,11 @@ npm install @inventsable/panelify
 
 ```html
 <template>
-  <panelify extName="test" appName="AEFT" />
+  <panelify
+    extName="camAssist"
+    appName="AEFT"
+    src="https://inventsable-panels.web.app/camAssist"
+  />
 </template>
 
 <script>
