@@ -6,6 +6,8 @@ Custom Vue component to display Adobe panel mocks inside your browser, allow use
 
 ## [See a demo After Effects panel](https://inventsable-panels.web.app/camAssist)
 
+![](https://thumbs.gfycat.com/ShortDismalCicada-size_restricted.gif)
+
 ## Installation
 
 ```bash
