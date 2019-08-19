@@ -8,13 +8,13 @@ Custom Vue component to display Adobe panel mocks inside your browser, allow use
 
 ![](https://thumbs.gfycat.com/ShortDismalCicada-size_restricted.gif)
 
-## Installation
+## Intended Installation
 
 ```bash
 npm install @inventsable/panelify
 ```
 
-## Simple usage
+## Intended Usage
 
 > Will do write up on iframe contents later
 
