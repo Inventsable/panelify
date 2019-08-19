@@ -1,0 +1,16 @@
+{
+  "name": "@inventsable/panelify",
+  "version": "1.0.0",
+  "description": "Vue wrapper for a pseudo-panel element to display UI mocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thomas Scharstein II <tom@inventsable.cc>",
+  "license": "MIT",
+  "dependencies": {
+    "starlette": "^0.3.3"
+  },
+  "devDependencies": {}
+}
