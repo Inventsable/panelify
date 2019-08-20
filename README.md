@@ -1,22 +1,20 @@
 # panelify
 
-## 🔨 Under Construction 🔨
+Custom Vue component compatible with [generator-cep-vue-cli extensions](https://github.com/Inventsable/generator-cep-vue-cli) to display Adobe panel mocks inside your browser, allowing users to play with a mock version of your UI in good faith as a _Try Before You Buy_ policy.
 
-Custom Vue component to display Adobe panel mocks inside your browser, allow users to play with a mock version of your UI in good faith as a _Try Before You Buy_ policy.
-
-## [See a demo After Effects panel](https://inventsable-panels.web.app/camAssist)
+## [See 4 demo panels in the same page](https://inventsable-panels.web.app)
 
 ![](https://thumbs.gfycat.com/ShortDismalCicada-size_restricted.gif)
 
-## Intended Installation
+## Installation
 
 ```bash
 npm install @inventsable/panelify
 ```
 
-## Intended Usage
+## Usage
 
-> Will do write up on iframe contents later
+> Will do write up on how to achieve full result soon
 
 ```html
 <template>
@@ -24,6 +22,9 @@ npm install @inventsable/panelify
     extName="camAssist"
     appName="AEFT"
     src="https://camera-manager-panel.web.app/#/"
+    width="450px"
+    height="300px"
+    :gradient="0"
   />
 </template>
 

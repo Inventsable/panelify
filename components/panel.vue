@@ -279,6 +279,7 @@ export default {
 
 .panelify-wrapper {
   display: flex;
+  max-width: 90vw;
 }
 
 .panelify-controller-button {
