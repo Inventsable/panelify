@@ -1,4 +1,6 @@
-# panelify
+# panelify [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[![NPM](https://nodei.co/npm/@inventsable/panelify.png)](https://nodei.co/npm/starlette/)
 
 Custom Vue component compatible with [generator-cep-vue-cli extensions](https://github.com/Inventsable/generator-cep-vue-cli) to display Adobe panel mocks inside your browser, allowing users to play with a mock version of your UI in good faith as a _Try Before You Buy_ policy.
 
